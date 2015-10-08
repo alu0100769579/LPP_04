@@ -1,1 +1,9 @@
 Trabajo en equipo con git
+
+La diferencia es que el compilador necesita traducir de un código fuente a un lenguaje objeto y el intérprete toma cada línea de código, la analiza y ejecuta al mismo tiempo.
+
+El fichero helloWorld.sh si se puede ejecutar directamente porque tiene permisos de ejecución.
+
+El fichero helloWorld.rb no se puede ejecutar directamente porque no tiene permisos de ejecución para "otros". Sin embargo si se puede ejecutar con el comando ruby.
+
+La principal diferencia entre los dos archivos es que el .sh contiene la línea #!/bin/sh que es el tipo de shell que interpreta el script.
