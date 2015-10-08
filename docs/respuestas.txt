@@ -1,1 +1,2 @@
 Trabajo en equipo con git
+El compilador necesita traducir de un código fuente a un lenguaje objeto y el intérprete toma cada línea de código, la analiza y ejecuta al mismo tiempo
